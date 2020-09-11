@@ -142,7 +142,14 @@ post_class: post-template
 
 <!-- Begin Comments
 ================================================== -->
-<!-- <div class="commentbox"></div> -->
+<div class="container">
+    <div id="comments" class="row justify-content-center mb-5">
+        <div class="col-md-8">
+             <!-- {% include disqus.html %} -->
+             <div class="commentbox"></div>
+        </div>
+    </div>
+</div>
 
 {% if post.comments == true %}
     <div class="container">
