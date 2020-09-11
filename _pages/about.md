@@ -2,7 +2,6 @@
 layout: page
 title: first page
 permalink: /about
-comments: true
 ---
 
 <div class="row justify-content-between">
