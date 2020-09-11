@@ -4,8 +4,9 @@ title: "Good Kind of Weird"
 description: ""
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
+# this base url is the root url like https://<root> which is necessary to get prev and next url link correctly
 baseurl: /iammay1234.github.io
-# google_analytics: 'UA-46278016-1'
+# google_analytics: ''
 # disqus: 'demowebsite'
 # mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -16,9 +17,11 @@ authors:
   mc:
     name: mc
     display_name: MC
-    # gravatar: e56154546cf4be74e393c62d1ae9f9d4
-    email: goldpig_mn@yahoo.com
-    # web: https://www.wowthemes.net
+    # can gravatar replace with image icon
+    # gravatar:
+    # email below is for using with MailChimp?? not sure
+    # email:
+    # web:
     # twitter: https://twitter.com/wowthemesnet
     description: "I'm just born into blogging"
   sal:
