@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Memoirs, a free minimalist Jekyll blogging theme with modern design 
+title: About
 permalink: /about
 comments: false
 image: assets/images/screenshot.jpg
 imageshadow: true
 ---
 
-This website is a demonstration to see **Memoirs Jekyll theme** in action. The theme is compatible with Github pages, in fact even this demo itself is created with Github Pages and hosted with Github. 
+<p>Welcome to this blog! I'm glad you're here :)</p>
+<p> I'm told more than once that I'm weird, but in a good way. What a nice thing to say! Although I wasn't quite sure what to make of it, I'll take it! This blog is to write all things that are fun, interesting, useful, helpful, and sometimes weird, but in a good way :)</p>
 
-<a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/jekyll-theme-memoirs/" class="btn btn-dark"> Get Memoirs for Jekyll &rarr;</a>
+<a target="_blank" href="" class="btn btn-dark"> Empty Link here &rarr;</a>
 
+<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
