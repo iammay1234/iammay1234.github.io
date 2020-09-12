@@ -87,7 +87,7 @@ plugins:
   - jekyll/tagging
   - jekyll-archives
 
-paginate: 10
+paginate: 8
 paginate_path: "/page/:num"
 
 # Pages Path
